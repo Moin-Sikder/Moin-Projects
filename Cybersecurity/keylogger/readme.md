@@ -28,7 +28,7 @@ A sophisticated keylogger implementation written in Python with hybrid bash scri
 * Bash shell
 * pip package manager
 
-**Setup Instructions**
+## Setup Instructions
 
 **For Python**
 
@@ -54,7 +54,7 @@ gcc keylogger_linux.c -o keylogger -lX11 -lXtst
 
 # 💻 Usage
 
-**For Python**
+## For Python
 
 Starting the Keylogger
 
@@ -86,7 +86,7 @@ Starting the Keylogger
 ps aux | grep keylogger.py
 ```
 
-**For C**
+## For C
 
 ```bash
 🔐 Educational Keylogger - Cybersecurity Project
