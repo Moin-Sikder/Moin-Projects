@@ -8,6 +8,8 @@ This project is designed for cybersecurity education and authorized penetration 
 
 A sophisticated keylogger implementation written in Python with hybrid bash scripting capabilities. Created as part of cybersecurity coursework to demonstrate system monitoring techniques and background process management.
 
+---
+
 # ✨ Features
 
 * **🔒 Stealth Operation** - Runs completely in background with process hiding
