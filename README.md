@@ -23,8 +23,6 @@ git clone https://github.com/Moin-Sikder/Moin-Projects.git
 cd your_desired_project
 ```
 
----
-
 ## 🌟 Key Features of My Projects
 
 Every project shared here is designed with the following principles in mind:
