@@ -37,3 +37,9 @@ Visual outputs are shared to offer clear, intuitive, and actionable insights.
 ## 🎉 Enjoy!
 
 Feel free to dive into the repositories and explore the work.
+
+---
+
+# 📜 License
+
+All the projects are licensed under the MIT License. See LICENSE file for details.
