@@ -1,8 +1,11 @@
-# 🏦 Welcome to Moin's Portfolio!
+# Welcome!
 
 ---
 
-I'm Moin, and this space is dedicated to showcasing a selection of my work across several key domains:
+Hello👋 I'm Moin!
+
+This space is dedicated to showcasing a selection of my work across several key domains:
+
 
 * **Banking & Finance** 💰
 * **Corporate Strategy & Analysis** 📊
