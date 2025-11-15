@@ -28,7 +28,7 @@ A sophisticated keylogger implementation written in Python with hybrid bash scri
 * Bash shell
 * pip package manager
 
-## Setup Instructions
+## 🔧 Setup Instructions
 
 **For Python**
 
@@ -84,6 +84,20 @@ Starting the Keylogger
 
 ```bash
 ps aux | grep keylogger.py
+```
+
+**Log File Format**
+
+```
+=== Keylogger Started at 2025-01-15 14:30:25 ===
+User: student
+Platform: linux
+==================================================
+[INFO] Keylogger started at 2025-01-15 14:30:25
+
+Hello[ENTER]
+This is a test[BACKSPACE]ing example[SHIFT]![ENTER]
+Email: user@example.com[TAB]Password123[ENTER]
 ```
 
 ## For C
@@ -147,39 +161,11 @@ ps aux | grep keylogger.py
 ```
 python-keylogger/
 │
+├── keylogger.c
 ├── keylogger.py              # Main Python keylogger script
 ├── start_keylogger.sh        # Bash management script
 ├── stop_keylogger.sh         # Quick stop script
 ├── README.md                 # Project documentation
-```
-
-# 🔧 Technical Details
-
-**Key Components**
-
-1. keylogger.py - Main Python script featuring:
-   · Automatic dependency installation
-   · Keyboard event monitoring
-   · Log file management
-   · Background process handling
-2. start_keylogger.sh - Bash management script providing:
-   · Process control (start/stop/status)
-   · Log management
-   · System compatibility checks
-3. stop_keylogger.sh - Quick termination script
-
-**Log File Format**
-
-```
-=== Keylogger Started at 2025-01-15 14:30:25 ===
-User: student
-Platform: linux
-==================================================
-[INFO] Keylogger started at 2025-01-15 14:30:25
-
-Hello[ENTER]
-This is a test[BACKSPACE]ing example[SHIFT]![ENTER]
-Email: user@example.com[TAB]Password123[ENTER]
 ```
 
 # 🎓 Educational Value
