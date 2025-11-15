@@ -1,7 +1,5 @@
 # Keylogger in Python
 
----
-
 **⚠️ LEGAL DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY**
 
 This project is designed for cybersecurity education and authorized penetration testing. Unauthorized use is illegal and unethical.
@@ -9,8 +7,6 @@ This project is designed for cybersecurity education and authorized penetration 
 # 🎯 Overview
 
 A sophisticated keylogger implementation written in Python with hybrid bash scripting capabilities. Created as part of cybersecurity coursework to demonstrate system monitoring techniques and background process management.
-
----
 
 # ✨ Features
 
@@ -20,8 +16,6 @@ A sophisticated keylogger implementation written in Python with hybrid bash scri
 * **🛠️ Process Management** - Easy start/stop/status monitoring via bash scripts
 * **📊 Organized Logs** - Structured logging with timestamps and metadata
 * **🎯 Educational Focus** - Designed for cybersecurity learning
-
----
 
 # 🚀 Installation
 
@@ -42,7 +36,6 @@ cd keylogger
 # Make scripts executable
 chmod +x start_keylogger.sh stop_keylogger.sh keylogger.py
 ```
----
 
 # 💻 Usage
 
@@ -76,8 +69,6 @@ Starting the Keylogger
 ps aux | grep keylogger.py
 ```
 
----
-
 # 📁 Project Structure
 
 ```
@@ -89,8 +80,6 @@ python-keylogger/
 ├── README.md                 # Project documentation
 └── requirements.txt          # Python dependencies
 ```
-
----
 
 # 🔧 Technical Details
 
@@ -121,8 +110,6 @@ This is a test[BACKSPACE]ing example[SHIFT]![ENTER]
 Email: user@example.com[TAB]Password123[ENTER]
 ```
 
----
-
 # 🎓 Educational Value
 
 This project demonstrates important cybersecurity concepts:
@@ -133,8 +120,6 @@ This project demonstrates important cybersecurity concepts:
 * **Logging Systems** - Structured data collection and storage
 * **Bash Scripting** - System automation and process management
 * **Ethical Considerations** - Responsible development of security tools
-
----
 
 # ⚠️ Warning
 
