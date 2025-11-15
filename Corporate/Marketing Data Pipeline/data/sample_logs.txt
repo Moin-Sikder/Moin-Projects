@@ -1,0 +1,9 @@
+CLICK|campaign_001|user_123|google|ad_456
+CLICK|campaign_001|user_124|facebook|ad_457
+CONVERSION|campaign_001|user_123|49.99|premium_product
+CLICK|campaign_002|user_125|instagram|ad_458
+CLICK|campaign_001|user_126|google|ad_456
+CONVERSION|campaign_002|user_125|29.99|basic_product
+CLICK|campaign_003|user_127|twitter|ad_459
+CLICK|campaign_001|user_128|facebook|ad_457
+CONVERSION|campaign_001|user_126|99.99|enterprise_product
