@@ -1,5 +1,5 @@
 [package]
-name = "ad-click-aggregator"
+name = "Ad-Click-Aggregator"
 version = "0.1.0"
 edition = "2021"
 
