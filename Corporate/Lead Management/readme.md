@@ -17,3 +17,7 @@ A complete PHP-based Lead Management System designed for marketing professionals
 - **Database**: MySQL
 - **Frontend**: Bootstrap 5, CSS3
 - **Architecture**: MVC-inspired structure
+
+# 📄 License
+
+This project is licensed under the MIT License. See LICENSE file for details.
