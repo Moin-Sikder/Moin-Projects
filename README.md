@@ -5,6 +5,7 @@
 I'm Moin, and this space is dedicated to showcasing a selection of my work across several key domains:
 
 * **Banking & Finance** 💰
+* **Marketing Analytics** 📈
 * **Corporate Strategy & Analysis** 📊
 * **Productivity Tools & Automation** ⚙️
 * **Cybersecurity & Threat Analysis** 🛡️
