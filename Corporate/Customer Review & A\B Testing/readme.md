@@ -72,4 +72,4 @@ Feel free to fork this project and submit pull requests for any improvements.
 
 # 📄 License
 
-MIT License - feel free to use this project for personal or commercial purposes.
+This project is licensed under the MIT License. See LICENSE file for details.
