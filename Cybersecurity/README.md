@@ -1,12 +1,10 @@
-# Python Keylogger - Cybersecurity Educational Tool
+# Keylogger in Python
 
 ---
 
 **⚠️ LEGAL DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY**
 
 This project is designed for cybersecurity education and authorized penetration testing. Unauthorized use is illegal and unethical.
-
----
 
 # 🎯 Overview
 
