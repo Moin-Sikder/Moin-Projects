@@ -39,6 +39,17 @@ cd keylogger
 chmod +x start_keylogger.sh stop_keylogger.sh keylogger.py
 ```
 
+**For C**
+
+```bash
+# Compile Windows version
+gcc keylogger.c -o keylogger.exe -luser32 -lgdi32
+
+# Compile Linux version (experimental)
+gcc keylogger_linux.c -o keylogger -lX11 -lXtst
+```
+
+
 # 💻 Usage
 
 Starting the Keylogger
