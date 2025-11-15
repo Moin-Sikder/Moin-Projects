@@ -9,7 +9,7 @@ This space is dedicated to showcasing a selection of my work across several key 
 * **Marketing Analytics** 📈
 * **Productivity Tools & Automation** ⚙️
 * **Cybersecurity & Threat Analysis** 🛡️
-
+---
 ## ⚙️ Setup Instructions
 
 ```bash
