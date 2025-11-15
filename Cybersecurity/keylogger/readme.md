@@ -163,9 +163,9 @@ python-keylogger/
 │
 ├── keylogger.c
 ├── keylogger.py              # Main Python keylogger script
+├── readme.md                 # Project documentation
 ├── start_keylogger.sh        # Bash management script
 ├── stop_keylogger.sh         # Quick stop script
-├── README.md                 # Project documentation
 ```
 
 # 🎓 Educational Value
