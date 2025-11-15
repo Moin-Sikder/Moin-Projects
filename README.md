@@ -1,15 +1,21 @@
 # 📢 Welcome!
+
 ---
+
 Hello👋 I'm Moin!
 
 This space is dedicated to showcasing a selection of my work across several key domains:
+
 ---
+
 * **Banking & Finance** 💰
 * **Corporate Strategy & Analysis** 📊
 * **Marketing Analytics** 📈
 * **Productivity Tools & Automation** ⚙️
 * **Cybersecurity & Threat Analysis** 🛡️
+
 ---
+
 ## ⚙️ Setup Instructions
 
 ```bash
@@ -26,7 +32,9 @@ Every project shared here is designed with the following principles in mind:
 * **Comprehensive Reports:** Detailed write-ups and analyses accompany the technical implementations.
 * **Visual Dashboards:**
 Visual outputs are shared to offer clear, intuitive, and actionable insights.
+
 ---
+
 ## 🎉 Enjoy!
 
 Feel free to dive into the repositories and explore the work.
