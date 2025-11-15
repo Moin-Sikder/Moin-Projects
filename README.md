@@ -32,7 +32,6 @@ Every project shared here is designed with the following principles in mind:
 * **Clean & Efficient Code:** Codebases are well-documented and easy to follow.
 * **Comprehensive Reports:** Detailed write-ups and analyses accompany the technical implementations.
 * **Visual Dashboards:**
-
 Visual outputs are shared to offer clear, intuitive, and actionable insights.
 
 ---
