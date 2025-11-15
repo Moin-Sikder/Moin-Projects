@@ -1,6 +1,4 @@
-# 📢 Welcome!
-
----
+## 📢 Welcome!
 
 Hello👋 I'm Moin!
 
@@ -13,8 +11,6 @@ This space is dedicated to showcasing a selection of my work across several key 
 * **Productivity Tools & Automation** ⚙️
 * **Cybersecurity & Threat Analysis** 🛡️
 
----
-
 ## ⚙️ Setup Instructions
 
 ```bash
@@ -23,7 +19,7 @@ git clone https://github.com/Moin-Sikder/Moin-Projects.git
 cd your_desired_project
 ```
 
-## 🌟 Key Features of My Projects
+## 🌟 Key Features of Projects
 
 Every project shared here is designed with the following principles in mind:
 
@@ -32,8 +28,6 @@ Every project shared here is designed with the following principles in mind:
 * **Visual Dashboards:**
 Visual outputs are shared to offer clear, intuitive, and actionable insights.
 
----
-
 ## 🎉 Enjoy!
 
-Feel free to dive into the repositories and explore the work. Happy coding!
+Feel free to dive into the repositories and explore the work.
