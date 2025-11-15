@@ -1,4 +1,4 @@
-# 📊 Marketing Analytics Dashboard
+# 📊 Customer Review & A/B Testing
 
 A modern, responsive dashboard for tracking customer reviews and A/B testing results. Built with vanilla JavaScript, Chart.js, and modern CSS.
 
