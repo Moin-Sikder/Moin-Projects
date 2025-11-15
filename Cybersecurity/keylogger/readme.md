@@ -88,6 +88,8 @@ ps aux | grep keylogger.py
 
 ## For C
 
+**Expected Console Output**
+
 ```bash
 🔐 Educational Keylogger - Cybersecurity Project
 ═══════════════════════════════════════════════
@@ -98,6 +100,8 @@ ps aux | grep keylogger.py
 🛑 Press F12 to stop gracefully
 💡 Keystrokes are being logged to: keylog.txt
 ```
+
+**Session Header**
 
 ```bash
 ═══════════════════════════════════════════════════
@@ -112,6 +116,8 @@ ps aux | grep keylogger.py
 ═══════════════════════════════════════════════════
 ```
 
+**Keystroke Entries**
+
 ```bash
 [14:30:46.123] H
 [14:30:46.234] e
@@ -121,6 +127,8 @@ ps aux | grep keylogger.py
 [14:30:46.678] [SPACE]
 [14:30:46.789] [ENTER]
 ```
+
+**Session Footer**
 
 ```bash
 ═══════════════════════════════════════════════════
