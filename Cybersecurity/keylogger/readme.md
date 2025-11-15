@@ -30,6 +30,8 @@ A sophisticated keylogger implementation written in Python with hybrid bash scri
 
 **Setup Instructions**
 
+**For Python**
+
 ```bash
 # Clone the repository
 git clone https://github.com/Moin-Sikder/Moin-Projects/Cybersecurity/keylogger.git
@@ -51,6 +53,8 @@ gcc keylogger_linux.c -o keylogger -lX11 -lXtst
 
 
 # 💻 Usage
+
+**For Python**
 
 Starting the Keylogger
 
@@ -80,6 +84,54 @@ Starting the Keylogger
 
 ```bash
 ps aux | grep keylogger.py
+```
+
+**For C**
+
+```bash
+🔐 Educational Keylogger - Cybersecurity Project
+═══════════════════════════════════════════════
+🟢 Keylogger started. Press F12 to stop.
+📁 Log file: keylog.txt
+
+⌨️ Keylogger is running in background...
+🛑 Press F12 to stop gracefully
+💡 Keystrokes are being logged to: keylog.txt
+```
+
+```bash
+═══════════════════════════════════════════════════
+🟢 KEYLOGGER SESSION STARTED
+═══════════════════════════════════════════════════
+📅 Date: Thu Dec 12 14:30:45 2024
+🆔 Process ID: 1234
+💻 Machine: DESKTOP-ABC123
+👤 User: JohnDoe
+═══════════════════════════════════════════════════
+⌨️  KEYSTROKE LOG:
+═══════════════════════════════════════════════════
+```
+
+```bash
+[14:30:46.123] H
+[14:30:46.234] e
+[14:30:46.345] l
+[14:30:46.456] l
+[14:30:46.567] o
+[14:30:46.678] [SPACE]
+[14:30:46.789] [ENTER]
+```
+
+```bash
+═══════════════════════════════════════════════════
+🔴 KEYLOGGER SESSION ENDED
+═══════════════════════════════════════════════════
+📅 Start Time: Thu Dec 12 14:30:45 2024
+📅 End Time: Thu Dec 12 14:35:22 2024
+⏱️  Duration: 04:37
+🔢 Total Keystrokes: 247
+📊 Average KPM: 53.42
+═══════════════════════════════════════════════════
 ```
 
 # 📁 Project Structure
