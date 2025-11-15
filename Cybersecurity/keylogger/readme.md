@@ -104,7 +104,7 @@ Email: user@example.com[TAB]Password123[ENTER]
 
 **Expected Console Output**
 
-```bash
+```
 🔐 Educational Keylogger - Cybersecurity Project
 ═══════════════════════════════════════════════
 🟢 Keylogger started. Press F12 to stop.
@@ -117,7 +117,7 @@ Email: user@example.com[TAB]Password123[ENTER]
 
 **Session Header**
 
-```bash
+```
 ═══════════════════════════════════════════════════
 🟢 KEYLOGGER SESSION STARTED
 ═══════════════════════════════════════════════════
@@ -132,7 +132,7 @@ Email: user@example.com[TAB]Password123[ENTER]
 
 **Keystroke Entries**
 
-```bash
+```
 [14:30:46.123] H
 [14:30:46.234] e
 [14:30:46.345] l
@@ -144,7 +144,7 @@ Email: user@example.com[TAB]Password123[ENTER]
 
 **Session Footer**
 
-```bash
+```
 ═══════════════════════════════════════════════════
 🔴 KEYLOGGER SESSION ENDED
 ═══════════════════════════════════════════════════
