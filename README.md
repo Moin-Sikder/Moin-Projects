@@ -6,8 +6,6 @@ Hello👋 I'm Moin!
 
 This space is dedicated to showcasing a selection of my work across several key domains:
 
----
-
 * **Banking & Finance** 💰
 * **Corporate Strategy & Analysis** 📊
 * **Marketing Analytics** 📈
