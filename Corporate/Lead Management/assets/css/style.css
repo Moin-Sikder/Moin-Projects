@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.stat-box {
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+.stat-box h4 {
+    margin: 0;
+    font-weight: bold;
+}
+
+.stat-box p {
+    margin: 5px 0 0 0;
+    color: #6c757d;
+    font-size: 0.9em;
+}
+
+.table th {
+    border-top: none;
+    font-weight: 600;
+    color: #495057;
+}
