@@ -1,0 +1,117 @@
+{
+  "name": "Marketing Lead Management Workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "marketing-lead",
+        "responseMode": "onReceived"
+      },
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "conditions": [
+            {
+              "id": "email",
+              "leftValue": "={{ $json.email }}",
+              "rightValue": ""
+            }
+          ]
+        }
+      },
+      "name": "Filter Valid Email",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2,
+      "position": [460, 300]
+    },
+    {
+      "parameters": {
+        "subject": "Welcome - Thanks for your interest",
+        "text": "Hi {{ $json.name }},\\n\\nThank you for contacting us. We'll get back to you soon.\\n\\nBest regards,\\nMarketing Team",
+        "to": "={{ $json.email }}"
+      },
+      "name": "Send Welcome Email",
+      "type": "n8n-nodes-base.emailSend",
+      "typeVersion": 1,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "domain": "",
+        "email": "",
+        "apiKey": ""
+      },
+      "name": "CRM Connection",
+      "type": "n8n-nodes-base.pipedrive",
+      "typeVersion": 1,
+      "position": [680, 450]
+    },
+    {
+      "parameters": {
+        "sheetId": "",
+        "range": "Leads!A:D"
+      },
+      "name": "Google Sheets",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [860, 300]
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": {
+      "main": [
+        [
+          {
+            "node": "Filter Valid Email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter Valid Email": {
+      "main": [
+        [
+          {
+            "node": "Send Welcome Email",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "CRM Connection",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send Welcome Email": {
+      "main": [
+        [
+          {
+            "node": "Google Sheets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "CRM Connection": {
+      "main": [
+        [
+          {
+            "node": "Google Sheets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}
