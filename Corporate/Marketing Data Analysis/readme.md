@@ -40,10 +40,10 @@ streamlit run app.py
 
 1. Upload your marketing data CSV file
 2. Explore different analysis modes:
-   · Data Overview
-   · Campaign Performance
-   · Customer Segmentation
-   · Full Report
+   * Data Overview
+   * Campaign Performance
+   * Customer Segmentation
+   * Full Report
 3. Download insights and reports
 
 ## Sample Data Format
@@ -70,7 +70,7 @@ Your CSV should include columns like:
 Feel free to submit issues and enhancement requests!
 
 
-### 5. sample_data/marketing_data.csv
+### sample_data/marketing_data.csv
 ```csv
 Campaign,Date,Spend,Clicks,Conversions,Revenue,Age,Income
 Campaign_A,2024-01-01,1000,5000,250,5000,35,55000
