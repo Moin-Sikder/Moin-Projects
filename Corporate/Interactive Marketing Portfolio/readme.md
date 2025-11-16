@@ -17,6 +17,18 @@ A modern, responsive portfolio website for a BBA Marketing graduate showcasing t
 - JavaScript (ES6+)
 - No external dependencies
 
+## File Structure 
+
+```
+marketing-portfolio/
+├── js/
+│   └── script.js
+├── styles/
+│   └── main.css
+├── index.html
+└── README.md
+```
+
 ## Setup
 
 1. Clone or download this repository
