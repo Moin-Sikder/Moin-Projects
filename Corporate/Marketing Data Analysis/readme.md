@@ -10,6 +10,19 @@ A Python-based marketing analytics tool that provides comprehensive analysis of 
 - **Automated Reporting**: Comprehensive marketing insights
 - **Data Visualization**: Interactive charts and graphs
 
+
+## Project Structure:
+
+```
+'Marketing Data Analysis'/
+├── app.py
+├── data_analyzer.py
+├── requirements.txt
+├── readme.md
+└── sample_data/
+    └── marketing_data.csv
+```
+
 ## Installation 
 
 **Install dependencies:**
