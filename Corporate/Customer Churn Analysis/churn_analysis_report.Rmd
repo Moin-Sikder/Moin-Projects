@@ -1,0 +1,61 @@
+---
+title: "Customer Churn Analysis Report"
+author: "[Your Name]"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(dplyr)
+library(ggplot2)
+library(kableExtra)
+```
+
+## Executive Summary
+
+This analysis identifies key factors driving customer churn and provides actionable recommendations for marketing retention strategies.
+
+## 1. Data Overview
+
+```{r data-overview}
+customer_data <- read.csv("data/sample_customer_data.csv")
+dimensions <- dim(customer_data)
+churn_rate <- round(mean(customer_data$churn_status) * 100, 2)
+
+cat("**Dataset:**", dimensions[1], "customers,", dimensions[2], "variables\n")
+cat("**Overall Churn Rate:**", churn_rate, "%")
+```
+
+## 2. Key Findings
+
+### Churn Distribution
+```{r churn-distribution}
+ggplot(customer_data, aes(x = factor(churn_status, labels = c("Active", "Churned")))) +
+  geom_bar(fill = c("#2E8B57", "#DC143C"), alpha = 0.8) +
+  labs(title = "Customer Churn Distribution", x = "Status", y = "Count") +
+  theme_minimal()
+```
+
+### Contract Type Analysis
+```{r contract-analysis}
+churn_by_contract <- customer_data %>%
+  group_by(contract_type) %>%
+  summarise(
+    Customers = n(),
+    Churn_Rate = paste0(round(mean(churn_status) * 100, 1), "%"),
+    Avg_Tenure = round(mean(tenure_months), 1)
+  )
+
+kable(churn_by_contract, caption = "Churn Analysis by Contract Type") %>%
+  kable_styling(bootstrap_options = "striped")
+```
+
+## 3. Strategic Recommendations
+
+1. **Contract Strategy**: Focus on converting month-to-month customers to annual contracts
+2. **Pricing Review**: Analyze pricing sensitivity in high-churn segments  
+3. **Retention Campaigns**: Target customers with <12 months tenure
+4. **Proactive Support**: Reduce support calls through improved self-service
+
+*Report generated on `r Sys.Date()`*
