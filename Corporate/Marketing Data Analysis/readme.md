@@ -17,8 +17,8 @@ A Python-based marketing analytics tool that provides comprehensive analysis of 
 'Marketing Data Analysis'/
 ├── app.py
 ├── data_analyzer.py
-├── requirements.txt
 ├── readme.md
+├── requirements.txt
 └── sample_data/
     └── marketing_data.csv
 ```
