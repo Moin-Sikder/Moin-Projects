@@ -69,6 +69,7 @@ Your CSV should include columns like:
 
 Feel free to submit issues and enhancement requests!
 
+## Output format
 
 ### sample_data/marketing_data.csv
 ```csv
