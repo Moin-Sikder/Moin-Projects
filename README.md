@@ -42,8 +42,8 @@ All the projects are licensed under the MIT License. See LICENSE file for detail
 ## 👨‍💻 Author
 **Moin Sikder**
 
-GitHub: @Moin-Sikder
-LinkedIn: Moin Sikder
+- GitHub: @Moin-Sikder
+- LinkedIn: Moin Sikder
 --
 
 ⭐ **Don't forget to star** this repository if you find it helpful!
