@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut&langs_count=20)](https://github.com/Moin-Sikder)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut&langs_count=20&hide_border=true&theme=radical&hide_title=false)](https://github.com/Moin-Sikder)
 
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
