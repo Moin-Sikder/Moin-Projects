@@ -155,10 +155,10 @@ Age Eligibility 10% Ensures regulatory compliance
 
 Business Rules
 
-· Exclusion Logic: Won't recommend products customer already owns
-· Confidence Threshold: Only suggests products with >30% confidence
-· Risk Adjustment: Higher credit requirements for premium products
-· Portfolio Gaps: Identifies missing product categories
+* **Exclusion Logic**: Won't recommend products customer already owns
+* **Confidence Threshold**: Only suggests products with >30% confidence
+* **Risk Adjustment**: Higher credit requirements for premium products
+* **Portfolio Gaps**: Identifies missing product categories
 
 ## 💼 Business Use Cases
 
@@ -172,10 +172,10 @@ Product Development Understand customer needs and gaps Analytics from recommenda
 
 ### For Marketing Teams
 
-· Segmented Campaigns: Target specific customer segments with relevant offers
-· Personalized Communication: Tailor messaging based on recommended products
-· Performance Tracking: Monitor recommendation-to-conversion rates
-· Customer Lifecycle Management: Progressive product adoption strategies
+* **Segmented Campaigns**: Target specific customer segments with relevant offers
+* **Personalized Communication**: Tailor messaging based on recommended products
+* **Performance Tracking**: Monitor recommendation-to-conversion rates
+* **Customer Lifecycle Management**: Progressive product adoption strategies
 
 ### 📋 Sample Customer Segments
 
