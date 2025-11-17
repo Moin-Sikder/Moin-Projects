@@ -414,8 +414,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Moin Sikder**
 
-GitHub: @Moin-Sikder
-LinkedIn: Moin Sikder
-___
+- GitHub: @Moin-Sikder
+- LinkedIn: Moin Sikder
+__
 
 ⭐ Don't forget to star this repository if you find it helpful!
