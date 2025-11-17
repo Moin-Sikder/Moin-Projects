@@ -46,7 +46,6 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 [![Google Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/shell)
-
 [![n8n](https://img.shields.io/badge/n8n-E53E3E?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 
 **Cybersecurity**
