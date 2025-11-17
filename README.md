@@ -20,7 +20,7 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 * 📊 **Corporate Strategy & Analysis**: Data Analysis, Visualization, Reporting
 * 📈 **Marketing Analytics**: Google Analytics, PowerBI, R Studio
 * ⚙️ **Productivity Tools & Automation**: Python, Bash, Apple Script, n8n
-* 🛡️ **Cybersecurity & Threat Analysis**: Linux Systems, Security Tools, Docker
+* 🛡️ **Cybersecurity**: Linux Systems, Security Tools, Docker
 
 ---
 
