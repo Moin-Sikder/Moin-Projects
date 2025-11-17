@@ -43,3 +43,5 @@ Feel free to dive into the repositories and explore the work.
 # 📜 License
 
 All the projects are licensed under the MIT License. See LICENSE file for details.
+
+⭐ **Don't forget to star** this repository if you find it helpful!
