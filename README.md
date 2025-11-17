@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder)](https://github.com/Moin-Sikder)
+
 ## 📊 Live Project Dashboard
 
 <div align="center">
