@@ -4,7 +4,6 @@
 [![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-
 ## 👋 Welcome to My GitHub Profile!
 
 ### 🚀 About Me
