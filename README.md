@@ -42,8 +42,9 @@ All the projects are licensed under the MIT License. See LICENSE file for detail
 ## 👨‍💻 Author
 **Moin Sikder**
 
-- GitHub: @Moin-Sikder
-- LinkedIn: Moin Sikder
+- Co-founder of Zenryse
+- Co-founder of 'thereisanapiforthat'
+- Expert in Python, bash, Linux, Javascript, R
 
 --
 
