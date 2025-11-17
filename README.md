@@ -1,5 +1,5 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![thereisanapiforthat](https://img.shields.io/badge/thereisanapiforthat-FF6C37?style=for-the-badge&logo=api&logoColor=white)](https://thereisanapiforthat.com)
+[![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 
