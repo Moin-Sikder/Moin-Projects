@@ -343,3 +343,15 @@ We welcome contributions! Please feel free to submit pull requests, report bugs,
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 👨‍💻 Author
+**Moin Sikder**
+
+- GitHub: @Moin-Sikder
+- LinkedIn: Moin Sikder
+
+--
+
+⭐ ***Don't forget to star*** ***this repository if you find it helpful!***
