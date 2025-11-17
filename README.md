@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut)](https://github.com/Moin-Sikder)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut&langs_count=20)](https://github.com/Moin-Sikder)
 
 
