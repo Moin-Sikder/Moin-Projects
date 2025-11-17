@@ -412,9 +412,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # 👨‍💻 Author
 
-Moin Sikder
+**Moin Sikder**
 
 · GitHub: @Moin-Sikder
 · LinkedIn: Moin Sikder
+
+--
 
 ⭐ Don't forget to star this repository if you find it helpful!
