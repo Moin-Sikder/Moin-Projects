@@ -1,13 +1,6 @@
-
-[![Web Developer](https://img.shields.io/badge/Web_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-[![Web Developer](https://img.shields.io/badge/Web_Developer-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Web Developer](https://img.shields.io/badge/Web_Developer-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-
-
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
-[![Web Developer](https://img.shields.io/badge/Web_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Web Developer](https://img.shields.io/badge/Web_Developer-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
