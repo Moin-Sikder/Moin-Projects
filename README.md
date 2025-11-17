@@ -1,3 +1,7 @@
+[![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://marketingplatform.google.com/about/analytics/)
+[![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-4285F4?style=for-the-badge&logo=googleads&logoColor=white)](#)
+[![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FBBC04?style=for-the-badge&logo=chartdotjs&logoColor=black)](#)
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
