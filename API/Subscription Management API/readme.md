@@ -4,13 +4,13 @@ A comprehensive **RESTful** API for tracking and managing subscription services 
 
 ## 🌟 Features
 
-- **Subscription CRUD Operations** - Create, read, update, and delete subscriptions
-- **Smart Analytics** - Monthly and yearly spending breakdowns
-- **Category Management** - Organize subscriptions by categories (Entertainment, Productivity, etc.)
-- **Renewal Alerts** - Get notified about upcoming subscription renewals
-- **Multi-user Support** - Ready for multiple users with user_id separation
-- **RESTful Design** - Clean API endpoints following REST principles
-- **CORS Enabled** - Ready for frontend integration
+- **Subscription CRUD Operations**: Create, read, update, and delete subscriptions
+- **Smart Analytics**: Monthly and yearly spending breakdowns
+- **Category Management**: Organize subscriptions by categories (Entertainment, Productivity, etc.)
+- **Renewal Alerts**: Get notified about upcoming subscription renewals
+- **Multi-user Support**: Ready for multiple users with user_id separation
+- **RESTful Design**: Clean API endpoints following REST principles
+- **CORS Enabled**: Ready for frontend integration
 
 ## 🚀 Quick Start
 
@@ -42,7 +42,7 @@ python app.py
 
 The API will be available at http://localhost:5000
 
-## 📚 API Documentation
+### 📚 API Documentation
 
 Base URL
 
@@ -52,7 +52,7 @@ http://localhost:5000/api
 
 Endpoints
 
-## 🏠 Health Check
+### 🏠 Health Check
 
 ```http
 GET /
@@ -73,7 +73,7 @@ Response:
 }
 ```
 
-## 📋 Get All Subscriptions
+### 📋 Get All Subscriptions
 
 ```http
 GET /subscriptions?user_id={user_id}
@@ -112,7 +112,7 @@ Response:
 }
 ```
 
-## ➕ Create Subscription
+### ➕ Create Subscription
 
 ```http
 POST /subscriptions
@@ -157,7 +157,7 @@ Response:
 }
 ```
 
-## ✏️ Update Subscription
+### ✏️ Update Subscription
 
 ```http
 PUT /subscriptions/{id}
@@ -174,13 +174,13 @@ Request Body:
 }
 ```
 
-🗑️ Delete Subscription
+### 🗑️ Delete Subscription
 
 ```http
 DELETE /subscriptions/{id}
 ```
 
-## 📊 Monthly Spending Analytics
+### 📊 Monthly Spending Analytics
 
 ```http
 GET /analytics/monthly-spending?user_id={user_id}
@@ -199,7 +199,7 @@ Response:
 }
 ```
 
-## 🔔 Upcoming Renewals
+### 🔔 Upcoming Renewals
 
 ```http
 GET /subscriptions/upcoming-renewals?user_id={user_id}
@@ -236,7 +236,7 @@ subscription-management-api/
     └── helpers.py        # Utility functions and calculations
 ```
 
-## 📊 Usage Examples
+### 📊 Usage Examples
 
 Python Client Example
 
@@ -286,7 +286,7 @@ Get Analytics:
 curl "http://localhost:5000/api/analytics/monthly-spending?user_id=user123"
 ```
 
-## 🔧 Configuration
+### 🔧 Configuration
 
 Environment Variables
 
@@ -310,7 +310,7 @@ SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost/database'
 SQLALCHEMY_DATABASE_URI = 'mysql://username:password@localhost/database'
 ```
 
-## 🧪 Testing
+### 🧪 Testing
 
 Manual Testing with Postman
 
