@@ -1,6 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut&langs_count=20)](https://github.com/Moin-Sikder)
-
-
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
 [![Web Developer](https://img.shields.io/badge/Web_Developer-1572B6?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
@@ -37,6 +34,8 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Apple Script](https://img.shields.io/badge/Apple%20Script-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut&langs_count=20)](https://github.com/Moin-Sikder)
 
 **Finance & Analytics**
 
