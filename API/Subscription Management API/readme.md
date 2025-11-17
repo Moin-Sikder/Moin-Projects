@@ -1,4 +1,3 @@
-```markdown
 # Subscription Management API 💰
 
 A comprehensive RESTful API for tracking and managing subscription services with advanced analytics and spending insights. Built with Flask and SQLAlchemy.
@@ -418,9 +417,4 @@ Your Name
 
 ---
 
-<div align="center">
-
 ⭐ Don't forget to star this repository if you find it helpful!
-
-</div>
-```
