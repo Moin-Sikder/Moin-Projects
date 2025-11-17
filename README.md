@@ -44,7 +44,7 @@ All the projects are licensed under the MIT License. See LICENSE file for detail
 
 - Co-founder of Zenryse
 - Co-founder of 'thereisanapiforthat'
-- Expert in Python, bash, Javascript, json, R
+- Expert in Python, bash, Apple Script, Javascript, R
 - Expert in Linux-based systems
 
 --
