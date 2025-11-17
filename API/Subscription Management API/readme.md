@@ -352,7 +352,7 @@ Manual Testing with Postman
 }
 ```
 
-## 🚀 Deployment
+### 🚀 Deployment
 
 Local Development
 
@@ -402,13 +402,6 @@ docker run -p 5000:5000 subscription-api
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# 👨‍💻 Author
-
-Your Name
-
-· GitHub: @Moin-Sikder
-· LinkedIn: Moin Sikder
-
 ## 🙏 Acknowledgments
 
 · Flask community for the excellent web framework
@@ -416,5 +409,12 @@ Your Name
 · Open source contributors
 
 ---
+
+# 👨‍💻 Author
+
+Moin Sikder
+
+· GitHub: @Moin-Sikder
+· LinkedIn: Moin Sikder
 
 ⭐ Don't forget to star this repository if you find it helpful!
