@@ -1,3 +1,7 @@
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+
 ## 👋 Welcome to My GitHub Profile!
 
 ### 🚀 About Me
