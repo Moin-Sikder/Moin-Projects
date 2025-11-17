@@ -31,19 +31,22 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Apple Script](https://img.shields.io/badge/Apple%20Script-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
 
-**Tools & Platforms**
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
-[![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
-
 **Finance & Analytics**
 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![R Studio](https://img.shields.io/badge/R%20Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://rstudio.com)
+
+**Platforms**
+
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 [![Google Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/shell)
+[![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+
+**Cybersecurity & Threat Analysis**
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
 ### 🚀 Quick Start
 
@@ -52,7 +55,7 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 git clone https://github.com/Moin-Sikder/Moin-Projects.git
 
 # Navigate to your desired project
-cd Moin-Projects/your_desired_project
+cd your_desired_project
 ```
 
 ### ✨ Project Philosophy
@@ -72,13 +75,13 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layou
 
 ### 📫 Let's Connect
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white @Moin Sikder
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+@Moin Sikder
 
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white hellolovelyworld@gmail.com
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+hellolovelyworld@gmail.com
 
 ### 📜 License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 All projects are licensed under the MIT License. See LICENSE file for details.
 
