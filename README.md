@@ -10,6 +10,11 @@
 
 Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise spanning multiple domains. I love creating efficient solutions and transforming complex data into actionable insights.
 
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Moin-Sikder)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helen89mars@gmail.com)
+
 ### 🏢 Current Ventures
 
 - Co-founder of Zenryse
@@ -70,11 +75,6 @@ cd your_desired_project
 * 📋 Comprehensive Reports Detailed analyses with technical implementations
 * 📊 Visual Dashboards Intuitive, actionable insights through visualization
 * 🔧 Practical Solutions Real-world applications and use cases
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Moin-Sikder)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helen89mars@gmail.com)
 
 ---
 
