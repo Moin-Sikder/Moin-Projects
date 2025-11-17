@@ -1,7 +1,7 @@
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
 [![Web Developer](https://img.shields.io/badge/Web_Developer-1572B6?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![API](https://img.shields.io/badge/API-8A2BE2?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
+[![API](https://img.shields.io/badge/API-6E40C9?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## 👋 Welcome to My GitHub Profile!
