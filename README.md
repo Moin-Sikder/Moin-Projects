@@ -1,8 +1,12 @@
 ## 📊 GitHub Stats
 
+<div align="center">
+
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-<img src="https://github-readme-stats.vercel.app/api?username=Moin-Sikder&show_icons=true&theme=radical&hide_border=false" alt="Moin's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+| <img src="https://github-readme-stats.vercel.app/api?username=Moin-Sikder&show_icons=true&theme=radical&hide_border=false" alt="Moin's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=compact&theme=radical&hide_border=false" alt="Top Languages" /> |
+
+</div>
 
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
