@@ -22,6 +22,8 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 * ⚙️ **Productivity Tools & Automation**: Python, Bash, Apple Script, n8n
 * 🛡️ **Cybersecurity & Threat Analysis**: Linux Systems, Security Tools, Docker
 
+---
+
 ### 💻 Technical Stack
 
 **Programming Languages**
