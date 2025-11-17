@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-Hello! I'm Moin Sikder - a passionate developer and entrepreneur with expertise spanning multiple domains. I love creating efficient solutions and transforming complex data into actionable insights.
+Hello! I'm Moin Sikder - A passionate developer and entrepreneur with expertise spanning multiple domains. I love creating efficient solutions and transforming complex data into actionable insights.
 
 ### 🏢 Current Ventures
 
