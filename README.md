@@ -1,3 +1,5 @@
+[![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moin-Sikder)](https://github.com/Moin-Sikder)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder)](https://github.com/Moin-Sikder)
 
 ## 📊 Live Project Dashboard
