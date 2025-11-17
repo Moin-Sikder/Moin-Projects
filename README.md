@@ -50,4 +50,4 @@ All the projects are licensed under the MIT License. See LICENSE file for detail
 
 --
 
-⭐ **Don't forget to star** this repository if you find it helpful!
+⭐ ***Don't forget to star*** this repository if you find it helpful!
