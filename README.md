@@ -1,6 +1,7 @@
-[![Banking](https://img.shields.io/badge/Banking-00D4AA?style=for-the-badge&logo=bankofamerica&logoColor=white)](#)
-[![Banking](https://img.shields.io/badge/Banking-007CBB?style=for-the-badge&logo=creditcard&logoColor=white)](#)
-[![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
+
+[![Web Developer](https://img.shields.io/badge/Web_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+[![Web Developer](https://img.shields.io/badge/Web_Developer-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Web Developer](https://img.shields.io/badge/Web_Developer-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 
 
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
