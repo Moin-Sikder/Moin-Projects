@@ -46,7 +46,7 @@ All the projects are licensed under the MIT License. See LICENSE file for detail
 - Co-founder of 'thereisanapiforthat'
 - Expert in Python, bash, Apple Script, Javascript, R
 - Expert in Linux-based systems
-- Softwares/Tools: Excel, PowerBI, R studio, Google Colab, Cloud Shell, Docker
+- Softwares/Tools: Excel, PowerBI, R studio, n8n, Google Colab, Cloud Shell, Docker
 
 --
 
