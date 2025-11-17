@@ -1,12 +1,20 @@
-## 📊 GitHub Stats
+## 📊 Live Project Dashboard
 
 <div align="center">
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Moin-Sikder&show_icons=true&theme=radical&hide_border=false" alt="Moin's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=compact&theme=radical&hide_border=false" alt="Top Languages" /> |
+### 🛠️ Languages in Action
+
+![Python Projects](https://img.shields.io/badge/dynamic/json?color=3776AB&label=Python&query=Python&url=https%3A%2F%2Fraw.githubusercontent.com%2FMoin-Sikder%2FMoin-Sikder%2Fmain%2Flanguage-data.json&style=for-the-badge)
+![JavaScript Projects](https://img.shields.io/badge/dynamic/json?color=F7DF1E&label=JavaScript&query=JavaScript&url=https%3A%2F%2Fraw.githubusercontent.com%2FMoin-Sikder%2FMoin-Sikder%2Fmain%2Flanguage-data.json&style=for-the-badge)
+![R Projects](https://img.shields.io/badge/dynamic/json?color=276DC3&label=R&query=R&url=https%3A%2F%2Fraw.githubusercontent.com%2FMoin-Sikder%2FMoin-Sikder%2Fmain%2Flanguage-data.json&style=for-the-badge)
+
+*Automatically updated - refreshes daily*
 
 </div>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+
 
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
