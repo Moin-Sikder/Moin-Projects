@@ -1,15 +1,15 @@
 ## 👋 Welcome to My GitHub Profile!
----
-## 🚀 About Me
+
+### 🚀 About Me
 
 Hello! I'm Moin Sikder - a passionate developer and entrepreneur with expertise spanning multiple domains. I love creating efficient solutions and transforming complex data into actionable insights.
 
-## 🏢 Current Ventures
+### 🏢 Current Ventures
 
 - Co-founder of Zenryse
 - Co-founder of 'thereisanapiforthat'
 
-## 🎯 My Expertise Areas
+### 🎯 My Expertise Areas
 
 * 💰 **Banking & Finance**: Python, R, PowerBI, Excel
 * 📊 **Corporate Strategy & Analysis**: Data Analysis, Visualization, Reporting
@@ -17,7 +17,7 @@ Hello! I'm Moin Sikder - a passionate developer and entrepreneur with expertise 
 * ⚙️ **Productivity Tools & Automation**: Python, Bash, Apple Script, n8n
 * 🛡️ **Cybersecurity & Threat Analysis**: Linux Systems, Security Tools
 
-## 💻 Technical Stack
+### 💻 Technical Stack
 
 **Programming Languages**
 
@@ -33,7 +33,7 @@ https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoC
 https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
 https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white
 
-## 🚀 Quick Start
+### 🚀 Quick Start
 
 ```bash
 # Clone my projects repository
@@ -43,14 +43,14 @@ git clone https://github.com/Moin-Sikder/Moin-Projects.git
 cd Moin-Projects/your_desired_project
 ```
 
-## ✨ Project Philosophy
+### ✨ Project Philosophy
 
 * 🧹 Clean & Efficient Code Well-documented, maintainable codebases
 * 📋 Comprehensive Reports Detailed analyses with technical implementations
 * 📊 Visual Dashboards Intuitive, actionable insights through visualization
 * 🔧 Practical Solutions Real-world applications and use cases
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 https://github-readme-stats.vercel.app/api?username=Moin-Sikder&show_icons=true&theme=radical
 
@@ -58,18 +58,18 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layou
 
 ---
 
-📫 Let's Connect
+### 📫 Let's Connect
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-📜 License
+### 📜 License
 
 All projects are licensed under the MIT License. See LICENSE file for details.
 
 ---
 
-⭐ If you find my work helpful, please consider giving it a star! ⭐
+⭐ If you find my work helpful, please consider giving it a star!
 
 https://komarev.com/ghpvc/?username=Moin-Sikder&color=blue&style=flat-square
