@@ -1,52 +1,6 @@
-## 📊 Live Language Dashboard
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut)](https://github.com/Moin-Sikder)
 
-<div align="center">
-
-### 🛠️ My Coding Language Distribution
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Language+Distribution&langs_count=8&size_weight=0.5&count_weight=0.5)](https://github.com/Moin-Sikder)
-
-*Hover over slices to see percentages!*
-
-</div>
-
-## 📈 Interactive Analytics
-
-<div align="center">
-
-### 🎯 Language Usage
-
-| Donut Chart | Pie Chart | Compact View |
-|-------------|-----------|--------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut&theme=dark)](https://github.com/Moin-Sikder) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=pie&theme=radical)](https://github.com/Moin-Sikder) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=compact&theme=merko)](https://github.com/Moin-Sikder) |
-
-</div>
-
-## 🔥 Live Coding Stats
-
-<div align="center">
-
-### 📊 Real-time Language Metrics
-
-![Python](https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-20%25-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-15%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Other](https://img.shields.io/badge/Other-10%25-6F42C1?style=for-the-badge)
-## 🌟 Language Proficiency
-
-<div align="center">
-
-[![Moin's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moin-Sikder&theme=github_dark)](https://github.com/Moin-Sikder)
-[![Moin's Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moin-Sikder&theme=github_dark)](https://github.com/Moin-Sikder)
-
-</div>
-
-
-[![Interactive Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=pie&theme=vision-friendly-dark&hide_border=true&custom_title=Click+to+Explore&animate=true)](https://github.com/Moin-Sikder?tab=repositories)
-
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut&show_icons=true&theme=radical&hide_border=true)](https://github.com/Moin-Sikder)
 
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
