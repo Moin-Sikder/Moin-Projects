@@ -1,3 +1,7 @@
+[![website](https://img.shields.io/badge/website-F4B400?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.moinsikder.com)
+[![website](https://img.shields.io/badge/website-F4B400?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.moinsikder.com)
+[![website](https://img.shields.io/badge/website-F4B400?style=for-the-badge&logo=safari&logoColor=white)](https://www.moinsikder.com)
+
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
 [![Web Developer](https://img.shields.io/badge/Web_Developer-1572B6?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
