@@ -74,10 +74,11 @@ cd your_desired_project
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Moin-Sikder)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helen89mars@gmail.com)
 
+---
+
 ### 📜 License
 
 All projects are licensed under the MIT License. See LICENSE file for details.
 
----
 
 ⭐ If you find my work helpful, please consider giving it a star!
