@@ -1,4 +1,3 @@
-```markdown
 # 💰 Spending Habit Analyzer API
 
 A FastAPI-based REST API that analyzes transaction data to provide intelligent spending insights and automatic categorization. Perfect for personal finance apps, banking integrations, and financial technology solutions.
