@@ -349,8 +349,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 **Moin Sikder**
 
-- GitHub: @Moin-Sikder
-- LinkedIn: Moin Sikder
+- Co-founder of Zenryse
+- Co-founder of 'thereisanapiforthat'
+- Expert in Python, bash, Apple Script, Javascript, R
+- Expert in Linux-based systems
+- Softwares/Tools: Excel, PowerBI, R studio, n8n, Google Colab, Cloud Shell, Docker
 
 --
 
