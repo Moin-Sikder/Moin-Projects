@@ -20,7 +20,7 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 * 📊 **Corporate Strategy & Analysis**: Data Analysis, Visualization, Reporting
 * 📈 **Marketing Analytics**: Google Analytics, PowerBI, R Studio
 * ⚙️ **Productivity Tools & Automation**: Python, Bash, Apple Script, n8n
-* 🛡️ **Cybersecurity**: Linux Systems, Security Tools, Docker
+* 🛡️ **Cybersecurity & Threats Analysis**: Linux Systems, Security Tools, Docker
 
 ---
 
@@ -46,7 +46,7 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 [![Google Cloud Shell](https://img.shields.io/badge/Google%20Cloud%20Shell-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/shell)
 [![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 
-**Cybersecurity & Threat Analysis**
+**Cybersecurity**
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
