@@ -1,4 +1,8 @@
-**Marketing & Analytics:**
+[![Banking](https://img.shields.io/badge/Banking-00D4AA?style=for-the-badge&logo=bankofamerica&logoColor=white)](#)
+[![Banking](https://img.shields.io/badge/Banking-007CBB?style=for-the-badge&logo=creditcard&logoColor=white)](#)
+[![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
+
+
 [![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 [![Banking & Finance](https://img.shields.io/badge/Banking_&_Finance-28B463?style=for-the-badge&logo=cashapp&logoColor=white)](#)
 [![Web Developer](https://img.shields.io/badge/Web_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
