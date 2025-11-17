@@ -419,4 +419,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 --
 
-⭐ Don't forget to **star** this repository if you find it helpful!
+⭐ **Don't forget to star** this repository if you find it helpful!
