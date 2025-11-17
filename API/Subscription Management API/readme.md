@@ -1,6 +1,6 @@
 # Subscription Management API 💰
 
-A comprehensive RESTful API for tracking and managing subscription services with advanced analytics and spending insights. Built with Flask and SQLAlchemy.
+A comprehensive **RESTful** API for tracking and managing subscription services with advanced analytics and spending insights. Built with Flask and SQLAlchemy.
 
 ## 🌟 Features
 
