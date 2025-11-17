@@ -416,6 +416,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - GitHub: @Moin-Sikder
 - LinkedIn: Moin Sikder
-__
 
-⭐ Don't forget to star this repository if you find it helpful!
+--
+
+⭐ Don't forget to **star** this repository if you find it helpful!
