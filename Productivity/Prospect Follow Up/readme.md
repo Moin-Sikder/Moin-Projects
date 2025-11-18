@@ -51,12 +51,7 @@
 
 ### Installation & Usage
 
-1. **Download the Script**
-   ```bash
-   git clone https://github.com/yourusername/banking-prospect-followup-automator.git
-   cd banking-prospect-followup-automator
 ```
-
 1. Run It!
    · Double-click ProspectFollowUp.automator OR
    · Open with Script Editor and click Run
