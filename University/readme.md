@@ -95,16 +95,16 @@ Step 2: Run Analytics Engine 🚀
 
 📈 **10 Powerful Marketing Analyses**
 
-* 📊 ROI Analysis Best performing channels & segments 6 charts
-* 🎯 Customer Segmentation Target audience behavior 4 heatmaps
-* 📈 Sales Forecasting Future sales predictions ML models
-* 🔍 Marketing Mix Modeling Factor impact analysis Correlation matrix
-* 🏷️ Product Performance Category profitability Comparative charts
-* 💰 Promotional Effectiveness Campaign performance ROI analysis
-* 🎄 Holiday Impact Seasonal trends Comparison charts
-* 🌡️ External Factors Economic impacts Trend analysis
-* 🏪 Store Comparison Location performance Benchmarking
-* 💸 Budget Optimization Spending recommendations Allocation charts
+* 📊 ROI Analysis: Best performing channels & segments, 6 charts
+* 🎯 Customer Segmentation: Target audience, behavior, 4 heatmaps
+* 📈 Sales Forecasting: Future sales predictions, ML models
+* 🔍 Marketing Mix Modeling: Factor impact analysis, Correlation matrix
+* 🏷️ Product Performance: Category, profitability, Comparative charts
+* 💰 Promotional Effectiveness: Campaign performance, ROI analysis
+* 🎄 Holiday Impact: Seasonal trends, Comparison charts
+* 🌡️ External Factors: Economic impacts, Trend analysis
+* 🏪 Store Comparison: Location, performance Benchmarking
+* 💸 Budget Optimization: Spending recommendations, Allocation charts
 
 ## 💡 Key Business Questions Answered
 
