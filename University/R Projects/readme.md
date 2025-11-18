@@ -1,10 +1,8 @@
 # 🌟 Interactive R in Colab Playground
 
-![Colab R Runtime](https://img.shields.io/badge/Google%20Colab-R%20Runtime-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=F9AB00)
 
 ![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-![Interactive](https://img.shields.io/badge/%F0%9F%9A%80-Interactive%20Notebook-orange?style=for-the-badge)
 
 **One-click R scripting in Google Colab - No setup required!**
 
