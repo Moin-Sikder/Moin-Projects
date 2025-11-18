@@ -51,19 +51,16 @@ Step 2: Run Analytics
 
 #### 🎯 10 Marketing Insights
 
-| # | Analysis | Visuals |
-|---|----------|---------|
-| 1 | 📈 ROI Analysis | ![Charts](https://img.shields.io/badge/📊-6_Charts-blue) |
-| 2 | 👥 Customer Segments | ![Heatmaps](https://img.shields.io/badge/🎯-4_Heatmaps-green) |
-| 3 | 🔮 Sales Forecast | ![ML](https://img.shields.io/badge/🤖-ML_Models-orange) |
-| 4 | 🎪 Marketing Mix | ![Matrix](https://img.shields.io/badge/📈-Correlation_Matrix-purple) |
-| 5 | 🏷️ Product Performance | ![Comparison](https://img.shields.io/badge/📊-Comparison_Charts-blue) |
-| 6 | 💰 Promotions | ![ROI](https://img.shields.io/badge/🎁-ROI_Analysis-green) |
-| 7 | 🎄 Holiday Impact | ![Trends](https://img.shields.io/badge/📅-Seasonal_Trends-orange) |
-| 8 | 🌡️ External Factors | ![Analysis](https://img.shields.io/badge/📈-Trend_Analysis-purple) |
-| 9 | 🏪 Store Comparison | ![Benchmark](https://img.shields.io/badge/📍-Benchmarking-blue) |
-| 10| 💸 Budget Optimization | ![Allocation](https://img.shields.io/badge/💰-Allocation_Charts-green) |
-
+https://img.shields.io/badge/ROI_Analysis-6_Charts-blue
+https://img.shields.io/badge/Customer_Segments-4_Heatmaps-green
+https://img.shields.io/badge/Sales_Forecast-ML_Models-orange
+https://img.shields.io/badge/Marketing_Mix-Correlation_Matrix-purple
+https://img.shields.io/badge/Product_Performance-Comparison_Charts-blue
+https://img.shields.io/badge/Promotions-ROI_Analysis-green
+https://img.shields.io/badge/Holiday_Impact-Seasonal_Trends-orange
+https://img.shields.io/badge/External_Factors-Trend_Analysis-purple
+https://img.shields.io/badge/Store_Comparison-Benchmarking-blue
+https://img.shields.io/badge/Budget_Optimization-Allocation_Charts-green
 </div>
 
 ---
