@@ -230,13 +230,19 @@ Same columns as provided example: Store, Date, Weekly_Sales, etc.
 
 ---
 
-### 📞 Support & Feedback
+## 📄 License
 
-Found this helpful?
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-- ⭐ Star the repository
-- 🔄 Share with your team
-- 🐛 Report issues
-- 💡 Suggest improvements
+## 👨‍💻 Author
+**Moin Sikder**
 
-Happy Analyzing! 🎯📊🚀
+- Co-founder at Zenryse
+- Co-founder at 'thereisanapiforthat'
+- Expert in Python, bash, Apple Script, Javascript, R
+- Expert in Linux-based systems
+- Softwares/Tools: Excel, PowerBI, R studio, n8n, Google Colab, Cloud Shell, Docker
+
+--
+
+⭐ ***Don't forget to star*** this repository if you find it helpful!
