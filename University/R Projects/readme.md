@@ -14,15 +14,15 @@
 ### 🚀 3-Step Setup
 
 ```
-* 1. 📱 **Create** → New notebook in Google Colab
-* 2. ⚙️  **Switch** → Runtime → Change runtime type → Select "R"
-* 3. 🎮 **Paste** → Your R code into the cell → Run!
+1. 📱 **Create** → New notebook in Google Colab
+2. ⚙️  **Switch** → Runtime → Change runtime type → Select "R"
+3. 🎮 **Paste** → Your R code into the cell → Run!
 ```
 
 ### 🎨 Visual Walkthrough
 
 Step Action Visual
-* 1 Click "New notebook" in Colab [+] New notebook
+1 * 1 Click "New notebook" in Colab [+] New notebook
 * 2 Navigate to Runtime → Change runtime type Runtime → Change runtime type
 * 3 Select "R" from dropdown Python → R ✅
 * 4 Paste & Run your code! [Ctrl] + [Enter]
