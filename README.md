@@ -85,4 +85,4 @@ cd your_desired_project
 
 ### ⭐ Support
 
-If you find my work helpful, please consider **giving a star!**
+If you find my work helpful, please consider **giving it a star!**
