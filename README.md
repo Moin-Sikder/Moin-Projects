@@ -18,8 +18,8 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 
 ### 🏢 Current Ventures
 
-- Co-founder of Zenryse
-- Co-founder of 'thereisanapiforthat'
+- Co-founder at Zenryse
+- Co-founder at 'thereisanapiforthat'
 
 ### 🎯 My Expertise Areas
 
