@@ -183,8 +183,6 @@ graph TD
     E --> F[Actionable Recommendations]
 ```
 
----
-
 🚀 Expected Results
 
 After running both cells, you'll see:
@@ -207,29 +205,25 @@ After running both cells, you'll see:
 💰 Optimal Budget Shift: +15% to Electronics-Family
 ```
 
----
-
 ## 💼 Use Cases
 
 🏪 **Retail Managers**
 
-· Optimize store performance
-· Allocate marketing budgets effectively
-· Understand customer preferences
+- Optimize store performance
+- Allocate marketing budgets effectively
+- Understand customer preferences
 
 📈 **Marketing Teams**
 
-· Measure campaign effectiveness
-· Identify high-ROI channels
-· Target right customer segments
+- Measure campaign effectiveness
+- Identify high-ROI channels
+- Target right customer segments
 
 🎯 **Business Strategists**
 
-· Forecast sales trends
-· Analyze market conditions
-· Make data-driven decisions
-
----
+- Forecast sales trends
+- Analyze market conditions
+- Make data-driven decisions
 
 ## ❓ Frequently Asked Questions
 
@@ -261,20 +255,6 @@ Same columns as provided example: Store, Date, Weekly_Sales, etc.
 
 ---
 
-<div align="center">
-
-### 🚀 Transform Your Marketing Strategy Today!
-
-From raw data to revenue insights in 5 minutes!
-
-https://colab.research.google.com/assets/colab-badge.svg
-
-No installation required • Free to use • Instant results
-
-</div>
-
----
-
 ### 📞 Support & Feedback
 
 Found this helpful?
@@ -285,5 +265,3 @@ Found this helpful?
 - 💡 Suggest improvements
 
 Happy Analyzing! 🎯📊🚀
-
-```
