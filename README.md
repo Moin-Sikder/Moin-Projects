@@ -41,7 +41,7 @@ Hello! I'm Moin Sikder, a passionate developer and entrepreneur with expertise s
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Apple Script](https://img.shields.io/badge/Apple%20Script-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut&langs_count=20)](https://github.com/Moin-Sikder)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moin-Sikder&layout=donut&langs_count=20&cache_seconds=1800)](https://github.com/Moin-Sikder)
 
 **Finance & Analytics**
 
