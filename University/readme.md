@@ -1,21 +1,21 @@
-## 🏪 Retail Marketing Analytics Dashboard
+# 🛍️ Walmart Marketing Analytics Dashboard
 
-![Marketing Analytics](https://img.shields.io/badge/MARKETING%20ANALYTICS-📊%20Insights-blue)
-![Python](https://img.shields.io/badge/PYTHON-3.7%2B%20%7C%20🤖-green)
-![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-⚡%20Ready-orange)
-
-### 📊 Unlock Powerful Retail Insights with 10 Comprehensive Marketing Analyses
-
-🎯 **Transform raw sales data into actionable marketing strategies**
+[![Marketing Analyst](https://img.shields.io/badge/Marketing_Analyst-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 
 ---
 
-## 🚀 Quick Start Guide
+## 📊 Unlock Powerful Retail Insights with 10 Comprehensive Marketing Analyses
+
+🎯 **Transform raw sales data into actionable marketing strategies**
+
+### 🚀 Quick Start Guide
 
 📋 **Prerequisites**
 - Google Account
 - Web Browser
-- **No coding experience required!**
+- No coding experience required!
 
 ⚡ **2-Step Setup**
 
@@ -95,9 +95,8 @@ Step 2: Run Analytics Engine 🚀
 
 ## 🎯 What You'll Get
 
-📈 10 Powerful Marketing Analyses
+📈 **10 Powerful Marketing Analyses**
 
-# Project Insights Visuals
 1 📊 ROI Analysis Best performing channels & segments 6 charts
 2 🎯 Customer Segmentation Target audience behavior 4 heatmaps
 3 📈 Sales Forecasting Future sales predictions ML models
