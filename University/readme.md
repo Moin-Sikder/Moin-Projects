@@ -106,28 +106,6 @@ Step 2: Run Analytics Engine 🚀
 * 🏪 Store Comparison Location performance Benchmarking
 * 💸 Budget Optimization Spending recommendations Allocation charts
 
----
-
-## 🎨 Sample Output Preview
-
-<div align="center">
-
-📊 Marketing ROI by Category
-
-https://via.placeholder.com/400x250/4CAF50/white?text=ROI+Analysis
-
-🎯 Customer Segmentation
-
-https://via.placeholder.com/400x250/2196F3/white?text=Customer+Segments
-
-📈 Sales Forecasting
-
-https://via.placeholder.com/400x250/FF9800/white?text=Sales+Predictions
-
-</div>
-
----
-
 ## 💡 Key Business Questions Answered
 
 ### 🎯 Strategic Insights
