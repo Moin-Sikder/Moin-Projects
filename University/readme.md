@@ -1,10 +1,10 @@
-# 🏪 Retail Marketing Analytics Dashboard
+## 🏪 Retail Marketing Analytics Dashboard
 
-![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-blue)
-![Python](https://img.shields.io/badge/Python-3.7%2B-green)
-![Google Colab](https://img.shields.io/badge/Google-Colab-orange)
+![Marketing Analytics](https://img.shields.io/badge/MARKETING%20ANALYTICS-📊%20Insights-blue)
+![Python](https://img.shields.io/badge/PYTHON-3.7%2B%20%7C%20🤖-green)
+![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-⚡%20Ready-orange)
 
-## 📊 Unlock Powerful Retail Insights with 10 Comprehensive Marketing Analyses
+### 📊 Unlock Powerful Retail Insights with 10 Comprehensive Marketing Analyses
 
 🎯 **Transform raw sales data into actionable marketing strategies**
 
