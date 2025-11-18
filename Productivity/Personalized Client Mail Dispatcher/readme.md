@@ -188,10 +188,6 @@ Important: Always ensure compliance with your organization's email policies and 
 
 ---
 
-<div align="center">
-
 Made with ❤️ for banking professionals who value efficiency and personalization
 
 If this saved you time, consider giving it a ⭐ on GitHub!
-
-</div>
