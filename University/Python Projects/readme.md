@@ -232,7 +232,7 @@ Same columns as provided example: Store, Date, Weekly_Sales, etc.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+***This project is licensed under the MIT License - see the LICENSE file for details.***
 
 ## 👨‍💻 Author
 **Moin Sikder**
