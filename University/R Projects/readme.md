@@ -1,22 +1,20 @@
-🌟 Interactive R in Colab Playground
+# 🌟 Interactive R in Colab Playground
 
-One-click R scripting in Google Colab - No setup required!
+**One-click R scripting in Google Colab - No setup required!**
 
-https://img.shields.io/badge/Google_Colab-R_Runtime-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-https://img.shields.io/badge/🚀-Interactive_Notebook-orange?style=for-the-badge
 
-🎯 Quick Start Guide
 
-🚀 3-Step Setup
+## 🎯 Quick Start Guide
 
-```markdown
+### 🚀 3-Step Setup
+
+```
 1. 📱 **Create** → New notebook in Google Colab
 2. ⚙️  **Switch** → Runtime → Change runtime type → Select "R"
 3. 🎮 **Paste** → Your R code into the cell → Run!
 ```
 
-🎨 Visual Walkthrough
+### 🎨 Visual Walkthrough
 
 Step Action Visual
 1 Click "New notebook" in Colab [+] New notebook
@@ -24,7 +22,7 @@ Step Action Visual
 3 Select "R" from dropdown Python → R ✅
 4 Paste & Run your code! [Ctrl] + [Enter]
 
-💡 Example Magic
+### 💡 Example Magic
 
 ```r
 # 🎯 Paste this in your first Colab R cell!
@@ -43,7 +41,7 @@ ggplot(data, aes(x=category, y=values, fill=category)) +
   labs(title='🎨 Your First R Plot in Colab!')
 ```
 
-🛠️ Features & Benefits
+### 🛠️ Features & Benefits
 
 ✅ What You Get
 
@@ -91,9 +89,9 @@ starwars %>%
 
 </details>
 
-🚀 Advanced Usage
+### 🚀 Advanced Usage
 
-📋 Keyboard Shortcuts Cheatsheet
+📋 **Keyboard Shortcuts Cheatsheet**
 
 Action Shortcut
 Run cell Ctrl + Enter
@@ -101,7 +99,7 @@ Run & advance Shift + Enter
 Insert cell above Ctrl + M A
 Insert cell below Ctrl + M B
 
-🎯 Pro Tips
+## 🎯 Pro Tips
 
 ```r
 # Install additional packages if needed
@@ -113,7 +111,7 @@ library(googledrive)
 # ... your file operations here
 ```
 
-🆘 Troubleshooting
+## 🆘 Troubleshooting
 
 <details>
 <summary>❌ <b>Common Issues & Solutions</b></summary>
@@ -134,7 +132,7 @@ Issue: Plot not showing
 
 </details>
 
-🎊 Ready to Explore?
+## 🎊 Ready to Explore?
 
 <div align="center">
 
