@@ -22,10 +22,10 @@
 ### 🎨 Visual Walkthrough
 
 Step Action Visual
-1 * 1 Click "New notebook" in Colab [+] New notebook
-* 2 Navigate to Runtime → Change runtime type Runtime → Change runtime type
-* 3 Select "R" from dropdown Python → R ✅
-* 4 Paste & Run your code! [Ctrl] + [Enter]
+* 1. Click "New notebook" in Colab [+] New notebook
+* 2. Navigate to Runtime → Change runtime type Runtime → Change runtime type
+* 3. Select "R" from dropdown Python → R ✅
+* 4. Paste & Run your code! [Ctrl] + [Enter]
 
 ### 💡 Example Magic
 
