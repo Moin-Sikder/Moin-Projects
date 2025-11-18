@@ -81,7 +81,7 @@ cd your_desired_project
 
 ### 📜 License
 
-All projects are licensed under the MIT License. See LICENSE file for details.
+***All projects are licensed under the MIT License. See LICENSE file for details.***
 
 
-⭐ ***If you find my work helpful, please consider giving it a star!***
+⭐ If you find my work helpful, please consider giving it a star!
