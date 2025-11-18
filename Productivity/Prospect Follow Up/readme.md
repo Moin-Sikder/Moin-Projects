@@ -17,8 +17,6 @@
 
 ## ✨ Magic in Action
 
-https://github.com/user-attachments/assets/demo-preview-gif
-
 **Here's what happens when you run this script:**
 
 1. **📝 Quick Input** - Enter prospect details once
