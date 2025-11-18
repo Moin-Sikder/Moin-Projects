@@ -8,7 +8,7 @@
 
 ## 🎯 Quick Start Guide
 
-**[One-click R scripting in Google Colab - No setup required!]**
+**(One-click R scripting in Google Colab - No setup required!)**
 
 
 ### 🚀 3-Step Setup
