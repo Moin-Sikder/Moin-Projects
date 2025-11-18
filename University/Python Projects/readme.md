@@ -102,13 +102,13 @@ Step 2: Run Analytics
 
 ### 🎯 Get Started Now!
 
-* 1. Open Google Colab
-* 2. Create new notebook
-* 3. Run Cell 1 → Run Cell 2
-* 4. Get instant insights!
+1. Open Google Colab
+2. Create new notebook
+3. Run Cell 1 → Run Cell 2
+4. Get instant insights!
 
 <div align="center">
 
-**No coding skills needed • Free • 2-minute setup**
+**• No coding skills needed • Free • 2-minute setup**
 
 </div>
