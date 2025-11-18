@@ -210,7 +210,10 @@ class MartAnalytics:
         print("\n📈 FORECASTING RESULTS:")
         for model, metrics in results.items():
             print(f"{model}: MAE = ${metrics['MAE']:,.2f}, R² = {metrics['R2']:.3f}")
-            
+  
+
+
+          
     def project_4_marketing_mix_modeling(self):
     """Project 4: Marketing Mix Modeling"""
     print("\n" + "="*50)
@@ -223,21 +226,37 @@ class MartAnalytics:
     
     correlation_matrix = self.df[numeric_cols].corr()
     
-    # Create 3 subplots: 1 for heatmap, 4 for scatter plots
+    # Create subplots with better layout
     fig = plt.figure(figsize=(18, 12))
     
-    # Correlation heatmap - top left
-    ax1 = plt.subplot2grid((3, 3), (0, 0), colspan=2, rowspan=2)
+    # Correlation heatmap - larger subplot
+    ax1 = plt.subplot2grid((2, 3), (0, 0), colspan=2, rowspan=2)
     sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0, ax=ax1)
     ax1.set_title('Correlation Matrix: Sales vs External Factors', fontweight='bold')
     
     # Impact of external factors on sales - scatter plots
     factors = ['Temperature', 'Fuel_Price', 'CPI', 'Unemployment']
     
-    positions = [(2, 0), (2, 1), (0, 2), (1, 2)]  # Grid positions for scatter plots
+    # Positions for scatter plots
+    positions = [(0, 2), (1, 2)]  # Two on the right side
     
-    for i, (factor, pos) in enumerate(zip(factors, positions)):
-        ax = plt.subplot2grid((3, 3), pos)
+    for i, factor in enumerate(factors[:2]):  # First two factors
+        ax = plt.subplot2grid((2, 3), positions[i])
+        ax.scatter(self.df[factor], self.df['Weekly_Sales'], alpha=0.6)
+        ax.set_xlabel(factor)
+        ax.set_ylabel('Weekly Sales')
+        ax.set_title(f'Sales vs {factor}', fontweight='bold')
+        
+        # Add trend line
+        z = np.polyfit(self.df[factor], self.df['Weekly_Sales'], 1)
+        p = np.poly1d(z)
+        ax.plot(self.df[factor], p(self.df[factor]), "r--", alpha=0.8)
+    
+    # Add two more scatter plots below
+    ax3 = fig.add_subplot(2, 3, 5)  # Bottom left
+    ax4 = fig.add_subplot(2, 3, 6)  # Bottom right
+    
+    for i, (factor, ax) in enumerate(zip(factors[2:], [ax3, ax4])):
         ax.scatter(self.df[factor], self.df['Weekly_Sales'], alpha=0.6)
         ax.set_xlabel(factor)
         ax.set_ylabel('Weekly Sales')
@@ -269,6 +288,9 @@ class MartAnalytics:
     print("\n🔍 MARKETING MIX INSIGHTS:")
     print("Factor Impact on Sales:")
     print(coefficients.round(4))
+
+
+
         
     def project_5_product_category_analysis(self):
         """Project 5: Product Category Performance"""
