@@ -127,14 +127,13 @@ Step 2: Run Analytics Engine 🚀
 
 ## 🛠️ Technical Features
 
-Feature Description Benefit
-🤖 Machine Learning Sales forecasting with Random Forest & Linear Regression Accurate predictions
-📊 Data Visualization 30+ interactive charts and heatmaps Clear insights
-🔢 Statistical Analysis Correlation matrices & regression models Data-driven decisions
-📈 Performance Metrics ROI, MAE, R-squared scores Quantifiable results
-🎯 Actionable Insights Specific recommendations Immediate implementation
+**Feature Description Benefit**:
 
----
+- 🤖 Machine Learning: Sales forecasting with Random Forest & Linear Regression, Accurate predictions
+- 📊 Data Visualization: 30+ interactive charts and heatmaps Clear insights
+- 🔢 Statistical Analysis: Correlation matrices & regression models, Data-driven decisions
+- 📈 Performance Metrics: ROI, MAE, R-squared scores Quantifiable results
+- 🎯 Actionable Insights: Specific recommendations, Immediate implementation
 
 ## 🎪 Interactive Dashboard Elements
 
