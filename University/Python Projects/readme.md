@@ -45,11 +45,10 @@ Step 2: Run Analytics
 
 ---
 
-### 📊 What You Get
+## 📊 What You Get
 
-#### 🎯 10 Marketing Insights
+#### 🎯 10 Marketing Insights & Analysis Visuals
 
-# Analysis Visuals
 1 📈 ROI Analysis https://img.shields.io/badge/📊-6_Charts-blue
 2 👥 Customer Segments https://img.shields.io/badge/🎯-4_Heatmaps-green
 3 🔮 Sales Forecast https://img.shields.io/badge/🤖-ML_Models-orange
