@@ -212,59 +212,63 @@ class MartAnalytics:
             print(f"{model}: MAE = ${metrics['MAE']:,.2f}, R² = {metrics['R2']:.3f}")
             
     def project_4_marketing_mix_modeling(self):
-        """Project 4: Marketing Mix Modeling"""
-        print("\n" + "="*50)
-        print("🔍 PROJECT 4: MARKETING MIX MODELING")
-        print("="*50)
+    """Project 4: Marketing Mix Modeling"""
+    print("\n" + "="*50)
+    print("🔍 PROJECT 4: MARKETING MIX MODELING")
+    print("="*50)
+    
+    # Correlation analysis
+    numeric_cols = ['Weekly_Sales', 'Temperature', 'Fuel_Price', 'CPI', 'Unemployment',
+                   'Marketing_Spend_Online', 'Markdown1', 'Markdown2']
+    
+    correlation_matrix = self.df[numeric_cols].corr()
+    
+    # Create 3 subplots: 1 for heatmap, 4 for scatter plots
+    fig = plt.figure(figsize=(18, 12))
+    
+    # Correlation heatmap - top left
+    ax1 = plt.subplot2grid((3, 3), (0, 0), colspan=2, rowspan=2)
+    sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0, ax=ax1)
+    ax1.set_title('Correlation Matrix: Sales vs External Factors', fontweight='bold')
+    
+    # Impact of external factors on sales - scatter plots
+    factors = ['Temperature', 'Fuel_Price', 'CPI', 'Unemployment']
+    
+    positions = [(2, 0), (2, 1), (0, 2), (1, 2)]  # Grid positions for scatter plots
+    
+    for i, (factor, pos) in enumerate(zip(factors, positions)):
+        ax = plt.subplot2grid((3, 3), pos)
+        ax.scatter(self.df[factor], self.df['Weekly_Sales'], alpha=0.6)
+        ax.set_xlabel(factor)
+        ax.set_ylabel('Weekly Sales')
+        ax.set_title(f'Sales vs {factor}', fontweight='bold')
         
-        # Correlation analysis
-        numeric_cols = ['Weekly_Sales', 'Temperature', 'Fuel_Price', 'CPI', 'Unemployment',
-                       'Marketing_Spend_Online', 'Markdown1', 'Markdown2']
-        
-        correlation_matrix = self.df[numeric_cols].corr()
-        
-        fig, axes = plt.subplots(2, 2, figsize=(16, 12))
-        
-        # Correlation heatmap
-        sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0, ax=axes[0,0])
-        axes[0,0].set_title('Correlation Matrix: Sales vs External Factors', fontweight='bold')
-        
-        # Impact of external factors on sales
-        factors = ['Temperature', 'Fuel_Price', 'CPI', 'Unemployment']
-        
-        for i, factor in enumerate(factors):
-            row, col = (i // 2) + 1, i % 2
-            axes[row, col].scatter(self.df[factor], self.df['Weekly_Sales'], alpha=0.6)
-            axes[row, col].set_xlabel(factor)
-            axes[row, col].set_ylabel('Weekly Sales')
-            axes[row, col].set_title(f'Sales vs {factor}', fontweight='bold')
-            
-            # Add trend line
-            z = np.polyfit(self.df[factor], self.df['Weekly_Sales'], 1)
-            p = np.poly1d(z)
-            axes[row, col].plot(self.df[factor], p(self.df[factor]), "r--", alpha=0.8)
-        
-        plt.tight_layout()
-        plt.show()
-        
-        # Multiple regression to quantify impact
-        X_mmm = self.df[['Marketing_Spend_Online', 'Markdown1', 'Markdown2', 
-                         'Temperature', 'Fuel_Price', 'CPI', 'Unemployment', 'Holiday_Flag']]
-        X_mmm = pd.get_dummies(X_mmm, columns=['Holiday_Flag'], drop_first=True)
-        y_mmm = self.df['Weekly_Sales']
-        
-        model = LinearRegression()
-        model.fit(X_mmm, y_mmm)
-        
-        coefficients = pd.DataFrame({
-            'Feature': X_mmm.columns,
-            'Coefficient': model.coef_,
-            'Impact_Percentage': (model.coef_ / model.coef_.sum()) * 100
-        }).sort_values('Impact_Percentage', key=abs, ascending=False)
-        
-        print("\n🔍 MARKETING MIX INSIGHTS:")
-        print("Factor Impact on Sales:")
-        print(coefficients.round(4))
+        # Add trend line
+        z = np.polyfit(self.df[factor], self.df['Weekly_Sales'], 1)
+        p = np.poly1d(z)
+        ax.plot(self.df[factor], p(self.df[factor]), "r--", alpha=0.8)
+    
+    plt.tight_layout()
+    plt.show()
+    
+    # Multiple regression to quantify impact
+    X_mmm = self.df[['Marketing_Spend_Online', 'Markdown1', 'Markdown2', 
+                     'Temperature', 'Fuel_Price', 'CPI', 'Unemployment', 'Holiday_Flag']]
+    X_mmm = pd.get_dummies(X_mmm, columns=['Holiday_Flag'], drop_first=True)
+    y_mmm = self.df['Weekly_Sales']
+    
+    model = LinearRegression()
+    model.fit(X_mmm, y_mmm)
+    
+    coefficients = pd.DataFrame({
+        'Feature': X_mmm.columns,
+        'Coefficient': model.coef_,
+        'Impact_Percentage': (model.coef_ / model.coef_.sum()) * 100
+    }).sort_values('Impact_Percentage', key=abs, ascending=False)
+    
+    print("\n🔍 MARKETING MIX INSIGHTS:")
+    print("Factor Impact on Sales:")
+    print(coefficients.round(4))
         
     def project_5_product_category_analysis(self):
         """Project 5: Product Category Performance"""
