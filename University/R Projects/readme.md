@@ -14,9 +14,9 @@
 ### 🚀 3-Step Setup
 
 ```
-1. 📱 **Create** → New notebook in Google Colab
-2. ⚙️  **Switch** → Runtime → Change runtime type → Select "R"
-3. 🎮 **Paste** → Your R code into the cell → Run!
+*1. 📱 **Create** → New notebook in Google Colab
+*2. ⚙️  **Switch** → Runtime → Change runtime type → Select "R"
+*3. 🎮 **Paste** → Your R code into the cell → Run!
 ```
 
 ### 🎨 Visual Walkthrough
@@ -50,14 +50,12 @@ ggplot(data, aes(x=category, y=values, fill=category)) +
 
 ✅ What You Get
 
-Feature Benefit
-⚡ Zero Setup No installation needed
-🆓 Free Tier Google's free compute resources
-📦 Pre-installed Packages Most popular R libraries ready
-💾 Cloud Storage Save directly to Google Drive
-🤝 Easy Sharing Share notebooks with one click
-
-🎪 Interactive Elements
+* ⚡ Zero Setup No installation needed
+* 🆓 Free Tier Google's free compute resources
+* 📦 Pre-installed Packages Most popular R libraries ready
+* 💾 Cloud Storage Save directly to Google Drive
+* 🤝 Easy Sharing Share notebooks with one click
+* 🎪 Interactive Elements
 
 <details>
 <summary>🔄 <b>Click to expand: Runtime Switching Guide</b></summary>
@@ -70,7 +68,7 @@ Visual Path:
 File → New notebook → Runtime menu → Change runtime type → R → Save
 ```
 
-Pro Tip: You can also use GPU/TPU acceleration for faster computations!
+**Pro Tip**: You can also use GPU/TPU acceleration for faster computations!
 
 </details>
 
@@ -139,8 +137,6 @@ Issue: Plot not showing
 
 ## 🎊 Ready to Explore?
 
-<div align="center">
-
 Your R adventure starts now!
 
 https://colab.research.google.com/assets/colab-badge.svg
@@ -150,5 +146,3 @@ https://colab.research.google.com/assets/colab-badge.svg
 ---
 
 Made with ❤️ for the R community | Happy coding! 🎉
-
-</div>
