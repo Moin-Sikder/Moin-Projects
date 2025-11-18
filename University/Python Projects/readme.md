@@ -45,11 +45,9 @@ Step 2: Run Analytics
 
 ---
 
-📊 What You Get
+### 📊 What You Get
 
-<div align="center">
-
-🎯 10 Marketing Insights
+#### 🎯 10 Marketing Insights
 
 # Analysis Visuals
 1 📈 ROI Analysis https://img.shields.io/badge/📊-6_Charts-blue
@@ -63,13 +61,9 @@ Step 2: Run Analytics
 9 🏪 Store Comparison https://img.shields.io/badge/📍-Benchmarking-blue
 10 💸 Budget Optimization https://img.shields.io/badge/💰-Allocation_Charts-green
 
-</div>
-
 ---
 
-🎨 Sample Output
-
-<div align="center">
+### 🎨 Sample Output
 
 ```
 📈 ROI by Category
@@ -94,31 +88,27 @@ Step 2: Run Analytics
 └───────┴───────────┘
 ```
 
-</div>
+---
+
+### 💡 Key Questions Answered
+
+- ✔️ Where should I spend my marketing budget?
+- ✔️ Who are my most valuable customers?
+- ✔️ Which products perform best?
+- ✔️ How do holidays affect sales?
+- ✔️ What's the optimal promotion strategy?
 
 ---
 
-💡 Key Questions Answered
+### 🎯 Get Started Now!
 
-· ✅ Where should I spend my marketing budget?
-· ✅ Who are my most valuable customers?
-· ✅ Which products perform best?
-· ✅ How do holidays affect sales?
-· ✅ What's the optimal promotion strategy?
-
----
-
-🎯 Get Started Now!
-
-1. Open Google Colab
-2. Create new notebook
-3. Run Cell 1 → Run Cell 2
-4. Get instant insights!
+* 1. Open Google Colab
+* 2. Create new notebook
+* 3. Run Cell 1 → Run Cell 2
+* 4. Get instant insights!
 
 <div align="center">
 
-https://colab.research.google.com/assets/colab-badge.svg
-
-No coding skills needed • Free • 2-minute setup
+**No coding skills needed • Free • 2-minute setup**
 
 </div>
