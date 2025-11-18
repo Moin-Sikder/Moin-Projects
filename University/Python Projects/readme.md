@@ -239,9 +239,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Co-founder at Zenryse
 - Co-founder at 'thereisanapiforthat'
-- Expert in Python, bash, Apple Script, Javascript, R
+- Expert in Python, Javascript, R, Bash, Apple Script
 - Expert in Linux-based systems
-- Softwares/Tools: Excel, PowerBI, R studio, n8n, Google Colab, Cloud Shell, Docker
+- Softwares/Tools: Excel, PowerBI, R studio, n8n, Google Colab, Cloud Shell, Docker, VirtualBox
 
 --
 
