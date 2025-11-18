@@ -4,11 +4,12 @@
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=F9AB00)
 
-**One-click R scripting in Google Colab - No setup required!**
-
-
+---
 
 ## 🎯 Quick Start Guide
+
+**[One-click R scripting in Google Colab - No setup required!]**
+
 
 ### 🚀 3-Step Setup
 
