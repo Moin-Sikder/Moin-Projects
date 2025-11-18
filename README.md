@@ -83,5 +83,6 @@ cd your_desired_project
 
 ***All projects are licensed under the MIT License. See LICENSE file for details.***
 
+### ⭐ Support
 
-⭐ If you find my work helpful, please consider giving it a star!
+If you find my work helpful, please consider giving it a star!
