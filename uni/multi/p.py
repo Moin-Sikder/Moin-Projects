@@ -213,8 +213,9 @@ class MartAnalytics:
   
 
 
-          
-    def project_4_marketing_mix_modeling(self):
+
+
+						def project_4_marketing_mix_modeling(self):
     """Project 4: Marketing Mix Modeling"""
     print("\n" + "="*50)
     print("🔍 PROJECT 4: MARKETING MIX MODELING")
@@ -226,46 +227,29 @@ class MartAnalytics:
     
     correlation_matrix = self.df[numeric_cols].corr()
     
-    # Create subplots with better layout
-    fig = plt.figure(figsize=(18, 12))
+    # Create separate figures for better clarity
+    plt.figure(figsize=(10, 8))
+    sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0)
+    plt.title('Correlation Matrix: Sales vs External Factors', fontweight='bold')
+    plt.tight_layout()
+    plt.show()
     
-    # Correlation heatmap - larger subplot
-    ax1 = plt.subplot2grid((2, 3), (0, 0), colspan=2, rowspan=2)
-    sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0, ax=ax1)
-    ax1.set_title('Correlation Matrix: Sales vs External Factors', fontweight='bold')
-    
-    # Impact of external factors on sales - scatter plots
+    # Scatter plots in a separate figure
     factors = ['Temperature', 'Fuel_Price', 'CPI', 'Unemployment']
     
-    # Positions for scatter plots
-    positions = [(0, 2), (1, 2)]  # Two on the right side
+    fig, axes = plt.subplots(2, 2, figsize=(15, 10))
+    axes = axes.ravel()  # Flatten the 2x2 array to 1D for easy indexing
     
-    for i, factor in enumerate(factors[:2]):  # First two factors
-        ax = plt.subplot2grid((2, 3), positions[i])
-        ax.scatter(self.df[factor], self.df['Weekly_Sales'], alpha=0.6)
-        ax.set_xlabel(factor)
-        ax.set_ylabel('Weekly Sales')
-        ax.set_title(f'Sales vs {factor}', fontweight='bold')
+    for i, factor in enumerate(factors):
+        axes[i].scatter(self.df[factor], self.df['Weekly_Sales'], alpha=0.6)
+        axes[i].set_xlabel(factor)
+        axes[i].set_ylabel('Weekly Sales')
+        axes[i].set_title(f'Sales vs {factor}', fontweight='bold')
         
         # Add trend line
         z = np.polyfit(self.df[factor], self.df['Weekly_Sales'], 1)
         p = np.poly1d(z)
-        ax.plot(self.df[factor], p(self.df[factor]), "r--", alpha=0.8)
-    
-    # Add two more scatter plots below
-    ax3 = fig.add_subplot(2, 3, 5)  # Bottom left
-    ax4 = fig.add_subplot(2, 3, 6)  # Bottom right
-    
-    for i, (factor, ax) in enumerate(zip(factors[2:], [ax3, ax4])):
-        ax.scatter(self.df[factor], self.df['Weekly_Sales'], alpha=0.6)
-        ax.set_xlabel(factor)
-        ax.set_ylabel('Weekly Sales')
-        ax.set_title(f'Sales vs {factor}', fontweight='bold')
-        
-        # Add trend line
-        z = np.polyfit(self.df[factor], self.df['Weekly_Sales'], 1)
-        p = np.poly1d(z)
-        ax.plot(self.df[factor], p(self.df[factor]), "r--", alpha=0.8)
+        axes[i].plot(self.df[factor], p(self.df[factor]), "r--", alpha=0.8)
     
     plt.tight_layout()
     plt.show()
@@ -288,6 +272,8 @@ class MartAnalytics:
     print("\n🔍 MARKETING MIX INSIGHTS:")
     print("Factor Impact on Sales:")
     print(coefficients.round(4))
+
+  
 
 
 
